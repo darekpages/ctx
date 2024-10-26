@@ -1,6 +1,6 @@
 # ctx.py
 # Basic library for library for coloring text in the command line.
-# 2024 (C) DAREKPAGES
+# v. 1.0, 2024 (C) DAREKPAGES
 # Python 3.11.10
 #
 # Use: 
